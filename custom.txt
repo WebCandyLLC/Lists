@@ -1,0 +1,76 @@
+# ------------------------------------[UPDATE]--------------------------------------
+# Title: The Block List Project - Custom List
+# Expires: 1 day
+# Homepage: https://blocklist.site
+# Help: https://github.com/blocklistproject/list/wiki/
+# License: https://unlicense.org
+# Total number of network filters: 1904
+# ------------------------------------[SUPPORT]-------------------------------------
+# You can support by:
+# - reporting false positives
+# - making a donation: https://paypal.me/blocklistproject
+# -------------------------------------[INFO]---------------------------------------
+#
+# Custom list
+# ------------------------------------[FILTERS]-------------------------------------
+0.0.0.0 familystrokes.org
+0.0.0.0 puretaboo.org
+0.0.0.0 beegnow.com
+0.0.0.0 xxnx.top
+0.0.0.0 beeg.faith
+0.0.0.0 beeg.world
+0.0.0.0 2beeg.me
+0.0.0.0 letmejerksite.com
+0.0.0.0 de.letmejerk.com
+0.0.0.0 letmejerk.mobi
+0.0.0.0 letmejerk7.com
+0.0.0.0 kompoz2.com
+0.0.0.0 apornvideo.com
+0.0.0.0 pornjk.com
+0.0.0.0 1upsexer.com
+0.0.0.0 porn93.cc
+0.0.0.0 thepornguy.org
+0.0.0.0 hqporner.com
+0.0.0.0 letmejerk.top
+0.0.0.0 2beeg.me
+0.0.0.0 youporner.net
+0.0.0.0 xxxhdvideo.mobi
+0.0.0.0 apornvideo.com
+0.0.0.0 evexxx.com
+0.0.0.0 pussyboy.net
+0.0.0.0 xgx.mobi
+0.0.0.0 xxu.mobi
+0.0.0.0 Xhamster.com
+0.0.0.0 tubegalore.tv
+0.0.0.0 freeporncave.com
+0.0.0.0 tube2017.com
+0.0.0.0 xxxxsx.com
+0.0.0.0 tubepornyoung.com
+0.0.0.0 tnaflix.com
+0.0.0.0 tubehall.com
+0.0.0.0 freeporntube.su
+0.0.0.0 pornbfvideo.com
+0.0.0.0 ashemaletube.com
+0.0.0.0 4tube.com
+0.0.0.0 beeg.porn
+0.0.0.0 ujizz.xxx
+0.0.0.0 hoes.tube
+0.0.0.0 noworrytube.com
+0.0.0.0 mporntube.pro
+0.0.0.0 pornotube1.com
+0.0.0.0 mobile.bravoporn.com
+0.0.0.0 porn4.tv
+0.0.0.0 tube188.com
+0.0.0.0 xnxx.llc
+0.0.0.0 pornseasona.com
+0.0.0.0 thematureporn.net
+0.0.0.0 porngo.xxx
+0.0.0.0 porntubeslist.com
+0.0.0.0 mobile.odir.org
+0.0.0.0 atube.xxx
+0.0.0.0 redwap.tube
+0.0.0.0 xxxvideos247.com
+0.0.0.0 lesbitube.net
+0.0.0.0 zzztube.tv
+0.0.0.0 xxbrits.com
+0.0.0.0 beeg.works
