@@ -74,3 +74,5 @@
 0.0.0.0 zzztube.tv
 0.0.0.0 xxbrits.com
 0.0.0.0 beeg.works
+0.0.0.0 nineteentube.com
+0.0.0.0 xgroovy.com
